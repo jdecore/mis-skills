@@ -1,0 +1,25 @@
+{
+  "name": "brutal-nouveau-skill",
+  "version": "1.0.0",
+  "description": "CLI para instalar las skills de Brutal Nouveau y la paleta Mercado al Atardecer en cualquier proyecto o globalmente para Antigravity / Gemini CLI",
+  "bin": {
+    "brutal-nouveau-skill": "./bin/index.js"
+  },
+  "type": "module",
+  "keywords": [
+    "brutal-nouveau",
+    "antigravity",
+    "skills",
+    "tailwind",
+    "design-system"
+  ],
+  "author": "Floro & Co",
+  "license": "MIT",
+  "files": [
+    "bin",
+    "templates"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
